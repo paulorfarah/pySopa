@@ -9,7 +9,7 @@ my_conn = mysql.connector.connect(
       host="localhost",
       user="admin",
       passwd="password",
-      database="junit4",
+      database="gorepoownloader",
       auth_plugin='mysql_native_password'
     )
 ####### end of connection ####
